@@ -20,9 +20,9 @@ title: Ticklure's Hue                          # the main title
 tagline: A Personal Blog Site   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+  Welcome to my blog site. I do habitual poetry and writings in leisure as my hobby. 
+  Here, I usually post those pieces of stuff. Take a tour here. 
+  I hope you'll like it.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://hbkabir004.github.io'
