@@ -2,8 +2,8 @@
 title: Over Thinking 🙃
 author: Arjooen Arasta
 date: 2021-08-30 11:33:00 +0800
-categories: [Life, Thoughts]
-tags: [thoughts]
+categories: [Life, Perception]
+tags: [perceptions]
 math: true
 mermaid: true
 ---
