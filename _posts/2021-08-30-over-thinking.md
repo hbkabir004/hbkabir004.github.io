@@ -1,7 +1,7 @@
 ---
 title: Over Thinking 🙃
 author: Arjooen Arasta
-date: 2021-08-30 11:33:00 +0800
+date: 2021-08-10 11:33:00 +0800
 categories: [Life, Perception]
 tags: [perceptions]
 math: true
