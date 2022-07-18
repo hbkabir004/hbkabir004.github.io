@@ -1,5 +1,5 @@
 ---
-title: অযাচিত হেঁয়ালি 🙂
+title: অযাচিত হেঁয়ালি...
 author: আবীর
 date: 2022-07-18 11:54:00 +0800
 categories: [Piece of Writing, Enigma]
