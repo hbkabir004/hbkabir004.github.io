@@ -60,7 +60,7 @@
           {% assign email = site.social.email | split: '@' %}
           javascript:location.href = 'mailto:' + ['{{ email[0] }}','{{ email[1] }}'].join('@')
         {%- elsif entry.type == 'rss' -%}
-          https://hbkabir.dev/
+          https://hbkabir.com
         {%- else -%}
           {{ entry.url }}
         {%- endif -%}
